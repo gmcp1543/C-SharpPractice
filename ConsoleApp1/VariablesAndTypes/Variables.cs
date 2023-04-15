@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.Variables_and_types
+namespace ConsoleApp1.VariablesAndTypes
 {
     internal class Variables : ITestClass
     {
